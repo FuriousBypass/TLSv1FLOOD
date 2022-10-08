@@ -1,2 +1,5 @@
 # TLSv1FLOOD
 Simple TLSv1 FLOODER
+# Author FURIOUS BYPASS and MaryJane
+
+
